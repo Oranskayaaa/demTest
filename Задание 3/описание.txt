@@ -1,0 +1,12 @@
+er-диаграмма
+база данных
+app.py- приложение
+
+для открытия приложения перейти в директорию (cd) 
+PS C:\Users\admin\Desktop\3\Задание 3>
+
+и ввести python app.py
+
+
+
+github https://github.com/Oranskayaaa/demTest
